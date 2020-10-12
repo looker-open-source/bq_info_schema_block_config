@@ -1,6 +1,5 @@
-project_name: "block-bq_info_schema_new-config"
-  
+project_name: "block-bq-info-schema-config"
+
 ################ Constants ################
 
 # If needed TODO Define constants with "export: override_required" declared
-

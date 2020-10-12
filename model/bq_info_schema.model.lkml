@@ -1,5 +1,5 @@
-include: "views/*.view"
-        
+include: "../views/*.view"
+
 explore: commit_facts_config {
   extends: [commit_facts_core]
   extension: required
@@ -29,4 +29,3 @@ explore: concurrency_per_second_config {
   extends: [concurrency_per_second_core]
   extension: required
 }
-
